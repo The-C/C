@@ -1,7 +1,0 @@
-Mirror in progress since Thu, 24 Jul 2014 01:14:49 .. please wait!
-httrack http://xiao106347.blog.163.com -O ./ +*.xiao106347.blog.163.com/* -v 
-To pause the engine: create an empty file named 'hts-stop.lock'
-PID=25449
-UID=1001
-GID=1001
-START=1406135689

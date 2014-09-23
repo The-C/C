@@ -1,7 +1,0 @@
-Mirror in progress since Mon, 28 Jul 2014 15:30:35 .. please wait!
-httrack http://www.baidu.com/s?wd=site%3A.edu.cn%20intext%3A%E5%85%AC%E6%B0%91%E8%BA%AB%E4%BB%BD%E8%AF%81.xls 
-To pause the engine: create an empty file named 'hts-stop.lock'
-PID=25181
-UID=0
-GID=0
-START=1406532635

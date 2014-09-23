@@ -1,8 +1,0 @@
-http://xiao106347.blog.163.com -O ./ +*.xiao106347.blog.163.com/* -v
-File generated automatically on Thu, 24 Jul 2014 01:19:33, do NOT edit
-
-To update a mirror, just launch httrack without any parameters
-The existing cache will be used (and modified)
-To have other options, retype all parameters and launch HTTrack
-To continue an interrupted mirror, just launch httrack without any parameters
-
