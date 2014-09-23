@@ -1,0 +1,11 @@
+#include "stdio.h"
+#include "stdlib.h"
+
+int main()
+{
+
+  printf("\033[31m\033[1m"); // 开始以红色打印
+  printf("A\n\nBC\n\nDEF\n\nGHIJ\n\nKLMNO\n\nPQRSTU\n\nV\n\nW\n\nX\n\nY\n\nZ\n\n");
+  fprintf(stdout, "\033[0m"); //去除颜色
+	 return 0;
+}

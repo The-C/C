@@ -1,10 +1,7 @@
 #include<stdio.h>
 
 int main()
-
 {
-
-
-  return 0;
-
+  printf("    *    \n   * *   \n  *   *  \n *你 好* \n  *   *   \n   * *   \n    *    \n");
+	 return 0;
 }

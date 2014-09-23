@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main()
+{
+  int a,b,c,b.d;
+  scanf("%d %d %d",&a,&b,&c);
+  printf("整数 %d %d %d 的平均值为：",a,b,c)
+    d=a+b+c;
+  d=d/3;
+  printf("%d\n",d);
+  return 0;
+}

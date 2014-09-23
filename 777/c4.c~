@@ -1,0 +1,13 @@
+#include<stdio.h>
+
+int main()
+{
+  int a,b,c,d;
+  a=123456789;b=43214321;c=3;
+  d=a+b;
+  printf("\033[31m\033[1m"); // 开始以红色打印
+  printf("%d\n",d);
+  printf("\033[0m"); //去除颜色
+  //  sleep(10);
+	 return 0;
+}
