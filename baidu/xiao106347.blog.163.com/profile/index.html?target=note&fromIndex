@@ -1,0 +1,534 @@
+
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh" lang="zh">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=8" />
+    <meta http-equiv="content-type" content="text/html;charset=gbk"/>
+    <meta http-equiv="content-style-type" content="text/css"/>
+    <meta http-equiv="content-script-type" content="text/javascript"/>
+    <meta name="version" content="neblog-1.0"/>
+    <script type="text/javascript">
+      if(top!=window){top.location=location.href;}
+      
+      document.uniqueID!=document.uniqueID&&!!location.hash&&(location.hash=location.hash); 
+      document.domain = location.hostname.replace(/^.*\.([\w]+\.[\w]+)$/,'$1');
+      window.focus();
+      window.getMusicTimeStamp=function(){return 'ca1c3b51eee3f01c0b303af2413d610f';};
+    </script>
+<title>xiao106347的个人资料 - 网易博客</title>
+<meta name="author" content="xiao106347,xiao106347"/>
+<meta name="keywords" content="xiao106347,Linux 折腾笔记,网易博客,网易,blog"/>
+<meta name="description" content="xiao106347,xiao106347,xiao106347的网易博客,,个人 IRC 频道：#xiao106347@irc.freenode.net ,   
+欢迎有相同兴趣爱好的朋友交流讨论"/>
+  <script type="text/javascript">
+    (function(){
+     var R=24,C=11,a=[];
+     for(var i=0;i<C;i++)for(var j=0;j<R;a.push('.icn0-'+i+j+'{background-position:'+(i>0?('-'+i*40+'px'):'0')+' '+(j>0?('-'+j*20+'px'):'0')+';}'),j++);
+          document.write('<style type="text/css">'+a.join('')+'</st'+'yle>');
+    })();
+  </script>
+    <link type="text/css" rel="stylesheet" href="http://b2.bst.126.net/newpage/r/c/c.css?v=1404703241875"/>
+    <link type="text/css" rel="stylesheet" href="http://os.blog.163.com/style/css/diy/107754089/215992078/-1404900547132/b.css?v=1" id="blog-163-com-theme"/>
+  <!--[if lte IE 6]>
+  <style type="text/css">
+    html,body,#blog-163-com-ie6body{height:100%;width:100%;overflow:hidden;}
+    #blog-163-com-ie6body{overflow:auto;overflow-y:scroll;}
+    #blog-163-com{background:none;}
+  </style>
+  <![endif]-->
+  
+  <meta name="robots" content="noindex" />
+  <style type="text/css"> .m-62 .pcursor{cursor:pointer;}.m-62 .tcursor{cursor:text;}.m-62 .hvul a:hover,.m-62 a.hvul:hover{text-decoration:underline;}.m-62 .selected{background-color:#FFFF33;}.m-62 .left .tnr span{line-height:20px}.m-62 .left .tp{padding:10px;line-height:20px}.m-62 .rightwrap{zoom:1;}.m-62 .right .pinfo .bsc .fl{margin-left:100px;}.m-62 .right .pinfo .bsc .seg{margin:10px 0}.m-62 .right .pinfo .title{height:30px;line-height:30px;padding-left:10px;}.m-62 .right .pinfo .detl .lst{width:80px;text-align:right;vertical-align:top;}.m-62 .right .pinfo .detl .dtab{table-layout:fixed;}.m-62 .right .pinfo .detl .dtab td{line-height:20px;padding:5px;vertical-align:top;}.m-62 .right .notwrap{padding-top:10px;}.m-62 .right .notwrap .nbw-not{margin-left:100px;}.m-62 .right .btm{padding:10px 0}.m-62 .right .nbw-not .lnk{width:100%;margin:10px 0 0;}.m-62 .right .nbw-not .nbw-act{text-align:left;}.m-62 .right .nitem .zbtn input{margin-right:10px;text-align:center}.m-62 .right .vulgar{padding-left:10px;}.m-62 .right .msgboard .nbw-not .nbw-not{margin-left:35px;zoom:1}.m-62 .right .msgboard .nbw-not .cnt{margin-right:100px;line-height:20px}.m-62 .right .msgboard .nbw-not .pleft{line-height:20px}.m-62 .right .reply{margin-left:90px}.m-62 .right .edt .reply{margin-left:128px}.m-62 .right .notecnt{padding-top:5px;margin-left:90px;}.m-62 .right .edt .notecnt{padding-top:5px;margin-left:128px;}.m-62 .right .nitem{position:relative;}.m-62 .right .nitem .noteedt{position:relative;width:90%:zoom:1}.m-62 .right .nitem .noteedt textarea{height:100px;}.m-62 .right .nitem .publisher{width:98%;}.m-62 .right .nitem .nm{width:70px;height:14px;padding-top:4px;overflow:hidden;}.m-62 .right .nitem .notecnt{margin-right:121px;overflow-x:hidden;}.m-62 .right .nitem .cnt{width:99%;overflow-x:hidden;line-height:1.5;}.m-62 .right .nitem .time{width:115px;padding-top:5px;margin-left:-115px;text-align:left;}.m-62 .right .edt .leftarea{margin-right:-128px;}.m-62 .right .leftarea{margin-right:-90px;}.m-62 .right .nitem .rpynote, .m-62 .right .nitem .editor{margin-top:10px;}.m-62 .right .nitem .reply{margin-top:10px;}.m-62 .right .nitem .reply .rpytt{margin-right:-58px;}.m-62 .right .nitem .reply .time{padding-top:0;}.m-62 .right .nitem .reply .modrpy{margin-top:10px;}.m-62 .right .nitem .reply .replyarea{margin:0 121px 0 58px;}.m-62 .right .nitem .reply .replycnt{line-height:1.5;*padding-top:2px;}.m-62 .right .nitem .reply .act{padding-left:60px;padding-top:1em}.m-62 .right .nitem .reply .noteedt .okbtn{margin-right:10px;}.m-62 .right .nitem .chk{margin:5px 15px 0 0;}.m-62 .right .note .nm{width:92px;height:16px;margin-right:-94px;line-height:16px;overflow:hidden}.m-62 .right .note .cnt{padding-left:20px;margin:0 126px 0 94px;overflow:hidden}.m-62 .right .note .cnt p{margin:0;}.m-62 .right .note .date{width:115px;padding-left:10px;height:20px;margin-left:-126px;overflow:hidden}.m-62 .right .nitem .act{width:400px;padding:10px 0 5px 0}.m-62 .right .btmact{padding-top:10px;}.m-62 .right .btn2nt{width:120px;height:25px;padding-bottom:2px;margin-left:14px}.m-62 .right .editcase .nbw-sdt .zmsg{width:150px;right:-155px;}.m-62 .right .pager .zwin{z-index:110;}.m-62 .right .note .cnt .hisntcnt{width:100%;overflow-x:hidden;word-wrap:break-word;word-break:break-all;}.m-62 .right .comment .notwrap .title{margin:10px 0 10px 50px}.m-62 .right .item{padding:20px 0 15px 0;}.m-62 .right .item .time{width:115px;text-align:left;}.m-62 .right .item .cmtttl{width:70%;}.m-62 .right .item .cnt{_width:75%;margin-right:121px;overflow-x:hidden;word-wrap:break-word;word-break:break-all;}.m-62 .right .item .title{width:400px;height:16px;overflow:hidden;}.m-62 .right .item .name{width:100px;height:20px;overflow:hidden;}.m-62 .right .item .act{padding-top:3px}.m-62 .right .sp{padding:0 3px}.m-62 .right .item .dtl{margin-left:80px}.m-62 .right .item .cwd{width:50px;height:50px}.m-62 .hostinfo .info{margin-right:5px;}.m-62 .visitorinfo .info{margin-left:75px;}.m-62 .visitorinfo{width:48%;overflow:hidden}.m-62 .hostinfo{width:52%;overflow:hidden}.m-62 .right .note{padding:10px 0}.m-62 .right .viwnt .pgr{padding:10px 0}.m-62 .right .lcnt .cmt-menu{height:30px;}.m-62 .right .lcnt .cmtpager{width:150px;}.m-62 .right .visitor{width:160px;margin:10px 0;position:relative;}.m-62 .right .visitor .nbw-fce{float:left;margin-right:-75px;}.m-62 .right .visitor .remove{position:absolute;right:-5px;bottom:19px;}.m-62 .right .visitor .name{width:85px;margin-left:75px;line-height:20px;padding:6px 0 0;overflow:hidden;}.m-62 .right .visitor .name .nn{width:105px;height:20px;line-height:20px;}.m-62 .right .visitor .name .nn a{width:80px;}.m-62 .right .visitor .mobnick{height:20px;line-height:20px;}.m-62 .right .editor .zbtn input{margin-right:10px;text-align:center}.m-62 .right .editor{width:90%}.m-62 .js-hide{display:none}.m-62 .lcnt{text-align:left;}.m-62 .lcnt .editcnt .edt{zoom:1}.m-62 .info{padding-left:4px;line-height:20px;}.m-62 .info .sp{margin:0 10px 0 6px}.m-62 .info .tt{margin:5px 0 10px 0}.m-62 .info table td{vertical-align:top}.m-62 .info .bigl{text-align:right}.m-62 .lcnt .editcase, .m-62 .lcnt .editcnt{width:80%}.m-62 .right .editcnt .nbw-sdt .zmsg{width:150px;right:-155px;}.m-62 .aboutme p{margin:0}.m-62 .aboutme .ns{margin-left:20px;}.m-62 .aboutme .cancel{display:none;}.m-62 .aboutme .js-show .cancel{display:inline;}.m-62 .aboutme .follow{*margin-left:6px;}.m-62 .aboutme .flld{margin-left:4px;}.m-62 .aboutme .follow:hover .cancel{display:inline;}.m-62 .aboutme .frd:hover .cancel{display:inline;}.m-62 .admire .tab{margin-bottom:20px;}.m-62 .admire .list1{overflow:hidden;}.m-62 .admire .list1 .ulist{margin:0 0 0 -20px;padding:0;*margin-bottom:25px;}.m-62 .admire .list1 .li{list-style:none;float:left;display:inline;width:160px;height:62px;overflow:hidden;margin:0 0 25px 20px;padding:0;}.m-62 .admire .list1 .img{float:left;margin-right:-62px;}.m-62 .admire .list1 .img img{display:block;width:60px;height:60px;border-style:solid;border-width:1px;}.m-62 .admire .list1 .txt{margin-left:72px;}.m-62 .admire .list1 .txt p{margin:0;padding:0;line-height:20px;}.m-62 .admire .list2{overflow:hidden;}.m-62 .admire .list2 .ulist{margin:0 0 0 -18px;padding:0;*margin-bottom:10px;}.m-62 .admire .list2 .li{list-style:none;display:inline;float:left;width:152px;height:230px;overflow:hidden;margin:0 0 10px 18px;padding:0;}.m-62 .admire .list2 .ct{height:190px;padding:5px;margin:0 0 5px;border-style:solid;border-width:1px;}.m-62 .admire .list2 .img,.m-62 .admire .list2 .img a,.m-62 .admire .list2 .img img{display:block;width:140px;height:140px;overflow:hidden;border:0;}.m-62 .admire .list2 .img{position:relative;margin-bottom:5px;}.m-62 .admire .list2 .tshadow,.m-62 .admire .list2 .ttxt{position:absolute;left:0;bottom:0;width:100%;height:32px;overflow:hidden;line-height:32px;}.m-62 .admire .list2 .tshadow,.m-62 .admire .list2 .shadow{background:#000;opacity:0.8;filter:alpha(opacity=80);}.m-62 .admire .list2 .lastshadow{background:#fff;opacity:0.1;filter:alpha(opacity=10);}.m-62 .admire .list2 .ttxt{left:7px;width:126px;color:#fff;}.m-62 .admire .list2 .shadow{position:absolute;top:0;left:0;width:100%;height:140px;}.m-62 .admire .list2 .lastshadow{position:absolute;top:0;left:0;width:100%;height:140px;}.m-62 .admire .list2 .close{position:absolute;top:0;right:0;width:15px;height:15px;overflow:hidden;cursor:pointer;background-color:#fff;background-position:-202px -142px;}.m-62 .admire .list2 .txt{height:40px;line-height:normal;}.m-62 .admire .list2 .txt strong{margin:0 3px;font-size:36px;}.m-62 .admire .list2 .opt{line-height:20px;}.m-62 .admire .list2 .txt{}.m-62 .xgtips{width:80%;margin-bottom:10px;} </style>
+  
+  </head>
+<body  id="blog-163-com" class="nb-body nb-inr nb-prv">
+  <!--[if lte IE 6]><div id="blog-163-com-ie6bodywrap" class=""><![endif]-->
+    <!--[if lte IE 6]><div id="blog-163-com-ie6body" class="nb-body"><![endif]-->
+
+<div class="nb-nbar clearfix" id="blog-163-com-topbar">
+  <div class="pl fl clearfix">
+  <div id="" class="nbw-im fl im im0">
+    <a  rel="nofollow"  class="lbl bd ia noul " href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://www.163.com/" target="_blank" hidefocus="true"><span class="tx">网易</span><span class="iblock icn0 icn0-421">&nbsp;</span></a><div class="nbw-tcd box-shadow bd">
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://news.163.com/" >
+            新闻
+          </a>
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://t.163.com/" >
+            微博
+          </a>
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://email.163.com/" >
+            邮箱
+          </a>
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://photo.163.com/" >
+            相册
+          </a>
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://yuedu.163.com/" >
+            阅读
+          </a>
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://www.youdao.com/" >
+            有道
+          </a>
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://photo.163.com/pp/square/" >
+            摄影
+          </a>
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://aipai.163.com?from=163blog" >
+            爱拍
+          </a>
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://quan.163.com/?from=blogdh" >
+            优惠券
+          </a>
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://note.youdao.com/?vendor=163blog" >
+            云笔记
+          </a>
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://fm.163.com/?fmblogzx0628" >
+            闪电邮
+          </a>
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://m.123.163.com/?frombkcp" >
+            手机邮
+          </a>
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://yxp.163.com/" >
+            印像派
+          </a>
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://61.163.com/?from=blogxiala" >
+            网易识字
+          </a>
+        <div class="sep bd space">&nbsp;</div>
+          <a  rel="nofollow"   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/redirect.html?frompersonalbloghome&amp;url=http://sitemap.163.com/" >
+            更多
+          </a>
+        
+    </div>
+  </div>
+
+    <span style="display:none;margin-left:0;" class="fl iblock space icn1 icn1-4">&nbsp;</span>
+
+  <div id="" class="nbw-im fl im im10">
+    <a  class="lbl bd ia noul " href="http://blog.163.com/?frompersonalbloghome" target="_blank" hidefocus="true"><span class="tx">博客</span><span class="iblock icn0 icn0-421">&nbsp;</span></a><div class="nbw-tcd box-shadow bd">
+          <a   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/services/wapblog.html?frompersonalbloghome" >
+            手机博客
+          </a>
+          <a   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/clone/clone.html?frompersonalbloghome" >
+            博客搬家
+          </a>
+          <a   target="_blank"  class="itm noul youcai " hidefocus="true" href="http://blog.163.com/vip.do?frompersonalbloghome" >
+            博客VIP服务
+          </a>
+        <div class="sep bd space">&nbsp;</div>
+          <a   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/blog_admin/blog/static/721279201082863728829/?frompersonalbloghome" >
+            LiveWriter写博
+          </a>
+          <a   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/blog_admin/blog/static/721279201092713253500/?frompersonalbloghome" >
+            word写博
+          </a>
+          <a   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/services/mailblog.html?frompersonalbloghome" >
+            邮件写博
+          </a>
+          <a   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/services/emsblog.html?frompersonalbloghome" >
+            短信写博
+          </a>
+        <div class="sep bd space">&nbsp;</div>
+          <a   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/showMultiUser.do?frompersonalbloghome" >
+            群博客
+          </a>
+          <a   target="_blank"  class="itm noul youcai " hidefocus="true" href="http://blog.163.com/BLOG_YOUCAI/" >
+            博客油菜地
+          </a>
+          <a   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/ht/?frompersonalbloghome" >
+            博客话题
+          </a>
+          <a   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/hot/history/?frompersonalbloghome" >
+            博客热点
+          </a>
+          <a   target="_blank"  class="itm noul  " hidefocus="true" href="http://q.163.com/#home?frompersonalbloghome" >
+            博客圈子
+          </a>
+          <a   target="_blank"  class="itm noul  " hidefocus="true" href="http://blog.163.com/findFriend.do?type=5?frompersonalbloghome" >
+            找朋友
+          </a>
+        
+    </div>
+  </div>
+
+
+    <div class="nbw-im fl im1 im explore"><a class="lbl bd ima spy" href="http://blog.163.com/public/explore/?frompersonalbloghome">发现</a></div>
+    <div class="nbw-im fl im1 im bloggroup"><a class="lbl bd ima spy" href="http://blog.163.com/g/?frompersonalbloghome">小组</a></div>
+    <div class="nbw-im fl im1 im customtheme"><a class="lbl bd ima spy" href="http://blog.163.com/public/theme/?frompersonalbloghome">风格</a></div>
+    <div class="nbw-im fl im1 im mobileblog"><a class="lbl bd ima spy" href="http://blog.163.com/services/wapblog.html?frompersonalbloghome">手机博客</a></div>
+    <div class="nbw-im fl im1 im seebyway"><a rel="nofollow" title="随便看看" class="lbl bd ima spy" href="http://blog.163.com/randomUser.do"><span>&nbsp;</span></a></div>
+
+    <span style="display:none;" class="fl iblock space icn1 icn1-4">&nbsp;</span>
+    <div id="topbar_randShowArea" class="fl">
+      <div class="nbw-im fl im1 im randtag phide"><a target="_blank" class="bd ima moveblog randshow" href="http://www.lofter.com/?act=qbbokedingbuhuang_20140702_01">免费20张照片冲印券，等你来拿！></a></div>
+<div class="nbw-im fl im1 im randtag phide"><a target="_blank" class="bd ima moveblog randshow" href="http://www.lofter.com/art?act=qbart_20140703_09&s=bokedinglan">独一无二的艺术商品，只在ART</a></div>
+    </div>
+  </div>
+  <div class="fr pr clearfix">
+    <div id="topbar_loginAndReg" class="fr">
+      <a rel="nofollow" style="margin-left:10px;color:#ff7700;" class="iblock fr ima" href="http://reg.163.com/reg/reg.jsp?product=blog&url=http://blog.163.com/ntesRegBlank.html&loginurl=http://blog.163.com/" target="_blank">创建博客</a>
+      <a rel="nofollow" class="iblock fr ima ztag" href="#">登录</a>
+      <span class="fr iblock space icn1 icn1-4 spx">&nbsp;</span>
+      <div id="topbar_followArea" class="nbw-im fr"><span class="lbl bd ima followit fl ztag"><span class="fl addicon">&nbsp;</span><span class="fl">加关注</span></span></div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+  (function(){
+      var e = document.getElementById('blog-163-com-main');
+      if(!!e) e.parentNode.insertBefore(document.getElementById('blog-163-com-topbar'),e);
+      e = document.getElementById('blog-notice-email');
+      if(!!e) window.setTimeout(function(){e.style.display='';},50);
+  })()
+</script>
+<div class="blogtoptips phide" id="blog-163-com-toptips">
+ <div class="blogtoptipswrap">
+    <div id="newbulletinstip" class="newbulletinstip phide">
+    <a class="lnknews fc03 m2a tiptag phide" href="" target="_blank"></a><span class="txtnews tiptag phide"></span>&nbsp;&nbsp;&nbsp;<a class="fc03 ul nextorprevnews tiptag phide" href="" hidefocus="true">显示下一条</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="fc03 ul close tiptag" href="" hidefocus="true">关闭</a>
+  </div>
+ </div>
+ 	<div id="sinaoauthtip" class="sinaoauthtip phide">
+    	<span style="">温馨提示！由于新浪微博认证机制调整，您的新浪微博帐号绑定已过期，请重新绑定！</span><a rel="nofollow" class="fc03 noul iblock" href="http://xiao106347.blog.163.com/settings/?fromnewcenter#m=6">立即重新绑定新浪微博》</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="fc03 iblock close" href="">关闭</a>
+  	</div>
+    <div id="$_faxiantip" class="faxiantip phide">
+      <div>
+	    <a class="m2a iblock" href="http://blog.163.com/public/explore/?fromblogbanner" target="_blank"></a>
+	    <span class="faxiantag m2a"></span>
+      </div>
+    </div>
+    <div id="$_guanggaotip" class="guanggaotip phide">
+      <div>
+	    
+	    <span class="guanggaotag m2a"></span>
+      </div>
+    </div>
+    <div id="$_lofterInviteTip" class="lofterInviteTip phide">
+      <div>
+	    <a class="m2a iblock" href="http://www.lofter.com/invite/163blog/?email=" target="_blank"></a>
+	    <span class="lofterInviteTag m2a"></span>
+      </div>
+    </div>
+</div>  <div class="nb-wrap wsy" id="blog-163-com-main"><div class="nb-are nb-top">
+  <div class="wkg h" id="blog-163-com-banner">
+    
+    <div class="t">
+      <h1 class="n c"><span class="ztag pre">Linux 折腾笔记</span></h1>
+      <p class="d c"><span class="ztag pre"></span></p>
+    </div>
+    <div class="f h ztag"></div>
+    <a class="x" hidefocus="true" target="_blank" href="#"><span class="xx ztag"></span></a>
+  </div>
+</div><div class="nb-are nb-nav">
+  <div class="wkg">
+    <div class="c h">
+      <h2>导航</h2>
+      <ul class="noul clearfix">
+                
+	        <li class="w w0">
+	          <a class="i i0 fc01 h" hidefocus="true" href="http://xiao106347.blog.163.com/">首页</a>
+	        </li>
+	        <li class="w w1">
+	          <a class="i i1 fc01 h" hidefocus="true" href="http://xiao106347.blog.163.com/blog/">日志</a>
+	        </li>
+	        <li class="w w5">
+	          <a class="i i5 fc01 h" hidefocus="true" href="http://xiao106347.blog.163.com/friends/">博友</a>
+	        </li>
+	        <li class="w w6 selected">
+	          <a class="i i6 fc01 h" hidefocus="true" href="http://xiao106347.blog.163.com/profile/">关于我</a>
+	        </li>
+      </ul><!--
+ --></div>
+    <div class="l h">&nbsp;</div>
+    <div class="r h">&nbsp;</div>
+  </div>
+</div>  <div class="nb-are nb-smt"><div class="wkg h space"><div class="l h">&nbsp;</div><div class="r h">&nbsp;</div><div class="c h">&nbsp;</div></div></div>
+  <div class="nb-are nb-cnt">
+    <div class="wkg">
+      <div class="c wc h clearfix " id="blog-163-com-container">  <div class="nb-mdl lcr m-62 nb-mdl-n" id="-62">
+  <div class="nb-mt lcr th fc02">
+    <div class="c tc th lcr"><h2 class="thide nb-jsc mdl_t_t">关于我</h2></div>
+    <div class="r tm th nb-jsc"></div>
+    <div class="l tl th">&nbsp;</div>
+    <div class="r tr th">&nbsp;</div>
+  </div>
+    <div class="nb-mc lcr">
+      <div class="c cc lcr nb-jsc">  <div class="nbw-lyt clearfix">
+<div class="left bdwr bds0 bdc0 noul">
+  <div class="nbw-fce nbw-f140">
+      <a target="_blank" href="http://xiao106347.blog.163.com/"><img class="cwd ztag-f140 bdc0 bdwa bds0 pnt" /></a>
+  </div>
+    <div id="aboutme"></div>
+    <div class="tnr">
+      <span onclick="nb.p.w.g.add2col()"><span class="iblock icn0 icn0-022">&nbsp;</span><span class="ul fc04">添加到收藏</span></span>
+      <div id="invite2circle" class="circle phide" onclick="nb.p.w.g.ivt2c()"><span class="iblock icn0 icn0-45">&nbsp;</span><span class="ul fc04">邀请加入圈子</span></div>
+    </div>
+  
+  <p class="tp bdwb bds2 bdc0 fc06">
+    <span>注册时间&nbsp;</span><span class="ytag"></span><br/>
+    <span>最近更新&nbsp;</span><span class="ytag"></span><br/>
+    <span>最后登录&nbsp;</span><span class="ytag"></span><br/>
+  </p>
+  
+  <div class="menu">
+    <a rel="nofollow" href="http://xiao106347.blog.163.com/profile/" class="noul pnt fc03 itm mitm iblock"><span class="iblock dot">&#183;</span>个人资料</a>
+    <a rel="nofollow"  href="http://xiao106347.blog.163.com/profile/misc/#m=1" class="noul pnt fc03 itm mitm iblock"><span class="iblock dot">&#183;</span><span>留言</span></a>
+    <a rel="nofollow" href="http://xiao106347.blog.163.com/profile/misc/#m=0" class="noul pnt fc03 itm mitm iblock"><span class="iblock dot">&#183;</span><span>评论</span></a>
+    <a rel="nofollow" href="http://xiao106347.blog.163.com/profile/misc/#m=2" class="noul pnt fc03 itm mitm iblock"><span class="iblock dot">&#183;</span><span>最近访客</span></a>
+  </div>
+</div>    <div class="right bdwl bds0 bdc0">
+      <div class="rightwrap">
+        <div class="lcnt"> </div>
+      </div>
+    </div>
+  </div>
+  <div class="nb-tpl nb-init phide"  style="display:none;">  <textarea rows="1" cols="1" name="js" >	  this.p ={friendstatus:'none',
+	           followstatus:'unFollow',
+	           creatTime:1358579506905,
+	           updateTime:1405770830896,
+	           lastLoginTime:1405842613656,
+	           city:'南非',
+	           province:'海外'
+	          }
+</textarea>
+  <textarea rows="1" cols="1" name="jst" id="m-62-jst-2">	  <div>
+	    <div class="xgtips fc05">近日有不法分子利用网易博客散布虚假中奖诈骗信息，网易博客郑重提醒：我们不会使用除blog.163.com后缀以外的其他域名来公布中奖结果。网易博客教您<a class="fc03 ul" target="_blank" href="http://blog.163.com/blog_admin/blog/static/72127920080941031415/">如何识别中奖诈骗信息</a>。</div>
+        <div class="clearfix">
+	      <div class="editcase ${t}"></div>
+	      <div class="pager pright ${t}"></div>
+	      <div class="vulgar">
+	        <input type="button" value="我要留言&gt;&gt" class="btn2nt fw1 fs1 fc09 bdc1 bgc2 js-hide ${t} pnt"/>
+	      </div>
+	    </div>
+	    <div class="mcase ${t}"></div>
+	     
+	    <div class="clearfix btmact">
+          <div class="pager js-zvlg-123 pright ${t}"></div>
+	      <input type="button" value="我要留言&gt;&gt" class="btn2nt fw1 fs1 fc09 bdc1 bgc2 ${t} js-hide pnt"/>
+        </div>
+      </div>
+</textarea>
+  <textarea rows="1" cols="1" name="jst" id="m-62-jst-3">    <div class="pright ${t} js-hide fc07"><span onclick="nb.p['m-62'].g.pu(0);" class="">上页</span><span class="${t} sp fc05"></span><span onclick="nb.p['m-62'].g.pu(1);" class="fc04 pcursor">下页</span></div>
+    <p style="_height:16px;" class="nbw-act fc04">
+      <span class="visit pcursor fc05">最近访客</span>
+    </p>
+    <div class="${t} mcase clearfix"></div>
+    <div class="pright ${t} js-hide fc07"><span onclick="nb.p['m-62'].g.pu(0);" class="pnt">上页</span><span class="${t} sp fc05"></span><span onclick="nb.p['m-62'].g.pu(1);" class="fc04 pcursor">下页</span></div>
+</textarea>
+  <textarea rows="1" cols="1" name="jst" id="m-62-jst-4">    <div class="clearfix bdc0 bdwb bds2">
+      <div class="cmtpager pright pager ${t}"></div>
+      <p class="nbw-act cmt-menu fc04">
+        <span class="pcursor tcursor ${t1} fc05">日志评论</span>
+        <span class="sep fc10" >|</span>
+        <span class="pcursor ${t1}">音乐评论</span>
+      </p>
+    </div>
+    <div class="mcase ${t} clearfix"></div>
+    <div class="pright pager ${t}"></div>
+</textarea>
+  <textarea rows="1" cols="1" name="jst" id="m-62-jst-5">	  <div class="${t} clearfix">
+	    <div class="pright hostinfo">
+	      <div class="nbw-fce nbw-f60 pright">
+	        <a hidefocus="true"><img class="cwd ${t}" /></a>
+          </div>
+          <div class="info fc07 pright">
+            <span class="${t}"></span><br/><span class="${t}"></span><br/><span class="${t}"></span>
+          </div>
+	    </div>
+        <div class="pleft visitorinfo">
+          <div class="clearfix">
+            <div class="nbw-fce nbw-f60 pleft">
+              <a hidefocus="true"><img class="cwd ${t}" /></a>
+            </div>
+            <div class="info">
+              <span class="${t}"></span><br/><span class="${t}"></span><br/><span class="${t}"></span>
+            </div>
+            </div>
+            <div>
+              <span class="js-hide ${t}">
+                <span class="ul fc05 ${t}">写留言</span>
+                <span class="sp">给</span>
+                <span class="${t}"></span>
+              </span>
+              <span class="${t} js-hide">对方关闭了留言功能</span>
+            </div>
+        </div>
+      </div>
+      <div class="editcnt ${t}"></div>
+      <div>
+        <div class="clearfix bds1 bdc0 bdwb pgr "><div class="${t}"></div></div>
+        <div class="mcase clearfix ${t}"></div>
+        <div class="clearfix pgr"><div class=" ${t}"></div></div>
+      </div>
+</textarea>
+  <textarea rows="1" cols="1" name="jst" id="m-62-jst-6">  	<div class="admire">
+  		<div class="tab clearfix">
+		    <div class="pright ${t} js-hide fc07"><span onclick="nb.p['m-62'].g.a.pu(0);" class="">上页</span><span class="${t} sp fc05"></span><span onclick="nb.p['m-62'].g.a.pu(1);" class="fc04 pcursor">下页</span></div>
+		    <p class="nbw-act fs1 fc04">
+		      <span class="admire pcursor fc05">赞美里程</span>      
+		      <span class="sep fc10" >|</span>
+		      <span class="admire pcursor">最近赞我</span>      
+		    </p>
+		    </div>
+	    <div class="${t}"><div class="${t} ulist clearfix"></div></div>
+	    <div class="pright ${t} js-hide fc07"><span onclick="nb.p['m-62'].g.a.pu(0);" class="pnt">上页</span><span class="${t} sp fc05"></span><span onclick="nb.p['m-62'].g.a.pu(1);" class="fc04 pcursor">下页</span></div>
+  	</div>
+</textarea>
+  <textarea rows="1" cols="1" name="ntp" id="m-62-ntp-2">	  <div class="nbw-fce nbw-f60 clearfix">
+        <img class="cwd" src="http://ava.bimg.126.net/photo/sM4qB160pC1aph8KxtqoZg==/199002808534957897.jpg"/>
+        <div class="thide"><a href="#">user name</a></div>
+        <div class="thide">5分钟前</div>
+      </div>
+</textarea>
+</div>
+</div>
+      <div class="l cl h100">&nbsp;</div>
+      <div class="r cr h100">&nbsp;</div>
+    </div>
+    <div class="nb-mb lcr bh space">
+      <div class="l bl bh">&nbsp;</div>
+      <div class="r br bh">&nbsp;</div>
+      <div class="c bc bh lcr">&nbsp;</div>
+    </div>
+  </div>
+</div>
+      <div class="l wl g lg h100">&nbsp;</div>
+      <div class="l wl t lt">&nbsp;</div>
+      <div class="l wl b lb">&nbsp;</div>
+      <div class="r wr g rg h100">&nbsp;</div>
+      <div class="r wr t rt">&nbsp;</div>
+      <div class="r wr b rb">&nbsp;</div>
+    </div>
+  </div>
+  <div class="nb-are nb-smb"><div class="wkg h space"><div class="l h">&nbsp;</div><div class="r h">&nbsp;</div><div class="c h">&nbsp;</div></div></div>
+<div class="nb-are nb-fot">
+  <div class="wkg h">
+    <h2>页脚</h2>
+    <div class="k">      <a rel="nofollow" class="m2a fc08" target="_blank" href="http://corp.163.com/index_gb.html">公司简介</a>
+      <span class="p fc10">-</span>
+      <a rel="nofollow" class="m2a fc08" target="_blank" href="http://gb.corp.163.com/gb/contactus.html">联系方法</a>
+      <span class="p fc10">-</span>
+      <a rel="nofollow" class="m2a fc08" target="_blank" href="http://corp.163.com/gb/job/job.html">招聘信息</a>
+      <span class="p fc10">-</span>
+      <a rel="nofollow" class="m2a fc08" target="_blank" href="http://help.163.com/?b13abk1">客户服务</a>
+      <span class="p fc10">-</span>
+      <a rel="nofollow" class="m2a fc08" target="_blank" href="http://corp.163.com/gb/legal/legal.html">隐私政策</a>
+      <span class="p fc10">-</span>
+      <a rel="nofollow" class="m2a fc08" target="_blank" href="http://blog.163.com/public/theme/">博客风格</a>
+      <span class="p fc10">-</span>
+      <a rel="nofollow" class="m2a fc08" target="_blank" href="http://blog.163.com/services/wapblog.html">手机博客</a>
+      <span class="p fc10">-</span>
+      <a rel="nofollow" class="m2a fc08" target="_blank" href="http://blog.163.com/vip.do">VIP博客</a>
+      
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="http://xiao106347.blog.163.com/rss/"/>
+      <span class="p fc10">-</span><span class="fc08" id="$_foot_subscribe"><span class="iblock m2a icn0 icn0-919">&nbsp;</span><a class="m2a fc08">订阅此博客</a></span>
+    </div>
+    <p class="fc08">网易公司版权所有&nbsp;&copy;1997-2014</p>
+  </div>
+</div></div>
+    <!--[if lte IE 6]></div><![endif]-->
+  <!--[if lte IE 6]></div><![endif]-->
+  <div class="nb-layer" id="blog-163-com-layer"></div>
+  <div class="nb-tpl nb-init phide" id="blog-163-com-template" style="display:none;">  <textarea rows="1" cols="1" name="jst" id="nb-jst-a1">  <a rel="nofollow" class="pr" target="_blank" href="http://help.163.com/special/007525FT/blog.html?b13aze1">帮助</a>
+  <span class="fr iblock space icn1 icn1-4">&nbsp;</span>
+  <a class="pr" target="_blank" href="http://blog.163.com/activation.do?host=activation&&username=${u}">${u}</a>
+</textarea>
+  <textarea rows="1" cols="1" name="jst" id="nb-jst-d0">      {list wl as x}
+        <div class="grp">${x.g}</div>
+        {list x.l as y}
+        <a class="itm noul" href="#" hidefocus="true" name="{if typeof(y.v)=='string'}${y.v}{else}${y_index}{/if}">${y.n}</a>
+        {/list}
+      {/list}
+</textarea>
+  <textarea rows="1" cols="1" name="jst" id="nb-jst-d1">	{if defined('wl')}
+        {list wl as x}<a class="itm noul" href="#" hidefocus="true" name="${x.v}">${x.n}</a>{/list}
+    {/if}
+</textarea>
+</div>
+<script type="text/javascript">
+  window.N = {tm:{'zbtn':'nbtn',
+                  'bdc0':'bdc0','bdc2':'bdc1',
+				  'bgc0':'bgc0','bgc1':'bgc1','bgc2':'bgc2','bgh0':'bgc9',
+				  'fc00':'fc03','fc01':'fc04','fc02':'fc05','fc03':'fc06','fc04':'fc07','fc05':'fc09'}};
+  Date.servTime = '07/24/2014 01:03:26';
+  location.api = 'http://api.blog.163.com/';
+  location.msg = 'http://api.blog.163.com/msg/dwr';
+  location.dwr = 'http://api.blog.163.com/xiao106347/dwr';
+  location.vcd = 'http://api.blog.163.com/cap/captcha.jpgx?parentId=215992078&r=';
+  location.mrt = 'http://b.bst.126.net/newpage/style/mbox/';
+  location.fce = 'http://os.blog.163.com/common/ava.s?host=';
+  location.fce2= 'http://os.blog.163.com/common/ava.s?host=';
+  location.passportfce = 'http://os.blog.163.com/common/ava.s?passport=';
+  location.fpr = 'http://b.bst.126.net/common/portrait/face/preview/';
+  location.f60 = 'http://b.bst.126.net/common/face60.png';
+  location.f140= 'http://b.bst.126.net/common/face140.png';
+  location.f40 = location.f140;
+  location.adf140= 'http://b.bst.126.net/common/admireface140.png';
+  location.ept = 'http://b.bst.126.net/common/empty.png';
+  location.guide_profile_add= 'http://b.bst.126.net/common/guide_profile_add.gif';
+  location.phtoto_dream = 'http://photo.dream.163.com/blog/writeBlogCallback.do';
+  window.CF = {
+    ca:false
+   ,cb:''
+   ,cc:false
+   ,cd:false
+   ,ce:'-62'
+   ,ck:0
+   ,ci:['api.blog.163.com'
+       ,'http://photo.163.com/photo/html/crossdomain.html?t=20100205'
+        
+        
+        
+        
+        
+        ]
+   ,cj:[-62]
+   ,cl:''
+   ,cm:["","blog/","album/","music/","collection/","friends/","profile/","pprank/"]
+   ,cf:0
+   ,co:{pv:false
+       ,ti:107754089
+       ,tn:''
+       ,tc:0
+       ,tl:3
+       ,ut:0
+       ,un:''
+       ,um:''
+       ,ui:0
+       ,ud:true}
+   ,cp:{nr:0
+       ,cr:0
+       ,vr:-100
+       ,fr:0}
+   ,cs:0
+   ,ct:{'nav':['首页','日志','相册','音乐','收藏','博友','关于我'],'enabled':[0,1,6],'defaultnav':parseInt('1111111',2)}
+   ,cu:false
+   ,cv:false
+   ,cw:false
+  };
+  window.UD = {};
+  UD.host = {
+      userId:215992078
+     ,userName:'xiao106347'
+     ,nickName:'xiao106347'
+     ,imageUpdateTime:1403502413107
+     ,baseUrl:'http://xiao106347.blog.163.com/'
+     ,gender:'他'
+     ,email:'zhgzhgang@hotmail.com'
+     ,photo163Name:'zhgzhgang@hotmail.com'
+     ,photo163HostName:'zhgzhgang@hotmail.com'
+     ,TOKEN_HTMLMODULE:''
+     ,isMultiUserBlog:false
+     ,isWumiUser:true
+     ,sRank:-100
+  };
+</script>
+    <script type="text/javascript" src="http://b1.bst.126.net/newpage/r/j/ec.js?v=1404703241875"></script>
+    <script type="text/javascript" src="http://b1.bst.126.net/newpage/r/j/m/m-62/pm.js?v=1404703241875"></script>
+
+<script type="text/javascript">
+    window.setTimeout(function(){
+			J.loadScript('http://music.ph.126.net/ph.js?001');
+			
+			J.postDataByDWR(location.dwr,'MusicBeanNew','setCopyrightMusicSessionToken',false);
+	},1000);
+</script>
+
+</body>
+</html>
