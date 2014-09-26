@@ -3,17 +3,16 @@
 int main()
 {
 
-
-  int a,b,c,d,e;
-  a=1;
-  b=1;
-  scanf("%d",&c);
+  int i=100;
+  char b[i],c[i],d[i],e[i];
+  char a[i];
+  b[i]=1;
+  scanf("%c",&c[i]);
   printf("\n");
-  while(b<=c)
+  for(a[i]=1;b[i]<=c[i];b[i]++)
     {
-      a=a*b;
-      b=b+1;
-      printf("%d\n",a);
+      a[i]=a[i]*b[i];
+      printf("%c\n",a[i]);
     }
   return 0;
 }

@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main()
+
+{
+  int a=200,b=100;
+
+
+  while(a>=b)
+    {
+      printf("*");
+      a=a-1;
+      while(rows<=number)
+	{
+	  number=number-1;
+	  printf("\n");
+	}
+
+    }
+
+  return 0;
+}
